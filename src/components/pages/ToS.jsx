@@ -12,7 +12,7 @@ export const ToS = () => {
               <div className="headbox">
                 <button
                   className="primaryBtn"
-                  onClick={() => (window.location.href = "/")}
+                  onClick={() => window.history.back()}
                   data-aos="fade-down"
                   data-aos-duration="1200"
                 >
