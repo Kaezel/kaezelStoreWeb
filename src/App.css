@@ -110,6 +110,13 @@ header img {
   display: none;
 }
 
+.about p,
+.howitworks p,
+.services p,
+.termsofservice ol {
+  text-align: justify;
+}
+
 /* Header */
 
 section {
