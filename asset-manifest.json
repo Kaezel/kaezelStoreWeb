@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kaezelStoreWeb/static/css/main.a74dcb98.css",
-    "main.js": "/kaezelStoreWeb/static/js/main.4b4e42e2.js",
+    "main.js": "/kaezelStoreWeb/static/js/main.b8dd46cb.js",
     "static/js/453.2b59ee60.chunk.js": "/kaezelStoreWeb/static/js/453.2b59ee60.chunk.js",
     "static/media/bghero.jpg": "/kaezelStoreWeb/static/media/bghero.ad830235ce8662c678ee.jpg",
     "static/media/bgcounter.jpg": "/kaezelStoreWeb/static/media/bgcounter.67089ec1361923ae35ea.jpg",
@@ -12,11 +12,11 @@
     "static/media/slick.woff": "/kaezelStoreWeb/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/kaezelStoreWeb/index.html",
     "main.a74dcb98.css.map": "/kaezelStoreWeb/static/css/main.a74dcb98.css.map",
-    "main.4b4e42e2.js.map": "/kaezelStoreWeb/static/js/main.4b4e42e2.js.map",
+    "main.b8dd46cb.js.map": "/kaezelStoreWeb/static/js/main.b8dd46cb.js.map",
     "453.2b59ee60.chunk.js.map": "/kaezelStoreWeb/static/js/453.2b59ee60.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a74dcb98.css",
-    "static/js/main.4b4e42e2.js"
+    "static/js/main.b8dd46cb.js"
   ]
 }
